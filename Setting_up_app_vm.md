@@ -53,4 +53,8 @@
 
     ![Alt text](images/ssh_into_vm.png)
 
-5) 
+5) I want to create a provision file in order to execute my script so I can test it out before implementing this on the user data on Azure. So we need to run `sudo nano provision.sh` 
+   
+   ![Alt text](provision_sh.png)
+
+6) In the provision.sh file, 
