@@ -1,4 +1,4 @@
-# Deploying a 2-Tier Architecture with Azure 
+# Setting up a 2-Tier Architecture with Azure 
 
 We will be setting up a web application and a database backend using Azure. 
 
