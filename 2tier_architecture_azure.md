@@ -1,10 +1,6 @@
 # Setting up a 2-Tier Architecture with Azure 
 
-We will be setting up a web application and a database backend using Azure. 
-
-![Alt text](images/2.png)
-
-### Create a virtual machine on Azure 
+### Step 1: Create a virtual machine on Azure 
 1) Log into Azure portal and select the resource group [tech254], followed by create on top left.
    
     ![Alt text](images/select_tech254.png)
@@ -38,7 +34,7 @@ We will be setting up a web application and a database backend using Azure.
 
     ![Alt text](images/deployment_in_progress.png)
 
-### SSH into VM ( First test- Deploying app through script)
+### Step 2: SSH into VM ( First test- Deploying app through script)
 
 1) After your VM has been created, select connect on the top of the bar. 
 
@@ -122,7 +118,7 @@ We will be setting up a web application and a database backend using Azure.
     
     ![Alt text](images/sparta_test_app.png)
 
-### Deploying app through user data on Azure
+### Step 3: Deploy app through user data on Azure
 
 1) Now that we have successfully tested our commands manually and through a script, we are ready to implement this on our user data. 
 
@@ -135,7 +131,7 @@ We will be setting up a web application and a database backend using Azure.
      ![Alt text](images/sparta_test_app_user_data.png)
 
 
-### Create a virtual machine for Database
+### Step 4: Create a virtual machine for Database
 
 Now that we have successfully deployed our app virtual machine. Lets create a vm for our database on the private subnet. 
 
@@ -181,7 +177,7 @@ Now that we have successfully deployed our app virtual machine. Lets create a vm
 
     ![Alt text](images/db_userdata.png)
 
-### Create an App vm to export DB 
+### Step 5: Create an App vm to export DB 
 
 1) Create an app vm and complete the following fields. 
    
