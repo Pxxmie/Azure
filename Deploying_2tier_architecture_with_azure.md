@@ -2,7 +2,7 @@
 
 We will be setting up a web application and a database backend using Azure. 
 
-
+![Alt text](images/2.png)
 
 ### Create a virtual machine on Azure 
 1) Log into Azure portal and select the resource group [tech254], followed by create on top left.
