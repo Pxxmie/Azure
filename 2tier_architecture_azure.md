@@ -1,7 +1,7 @@
 # Setting up a 2-Tier Architecture with Azure 
 
 
- <img src="images/VM_AZURE.png" width="400"/>
+ <img src="images/VM_AZURE.png" width="500"/>
 
 
 ### Step 1: Create a virtual machine on Azure 
