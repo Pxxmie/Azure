@@ -28,8 +28,10 @@ It creates backups within the same data center, so if a server or drive fails, y
 
 However, in extreme events like fires or floods in the data center, all copies of your data might be permanently lost.
 
+![Alt text](<images/lrs (2).png>)
+
 **Zone-redundant storage (ZRS)**
 
 Zone-redundant storage (ZRS) replicates your storage account across three Azure availability zones in the primary region. 
 
-![Alt text](images/LRS_ZRS.png)
+![Alt text](images/zrs.png)
