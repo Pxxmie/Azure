@@ -1,5 +1,9 @@
 # Setting up a 2-Tier Architecture with Azure 
 
+
+ <img src="images/VM_AZURE.png" width="400"/>
+
+
 ### Step 1: Create a virtual machine on Azure 
 1) Log into Azure portal and select the resource group [tech254], followed by create on top left.
    
